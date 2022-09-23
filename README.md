@@ -1,5 +1,7 @@
 # LiveViewTodos
 
+This is a demostration of Phoenix LiveView implementation.
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
